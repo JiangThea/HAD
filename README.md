@@ -1,2 +1,2 @@
 # sparseHAD
-Code is about to be released.
+Code has been released.
